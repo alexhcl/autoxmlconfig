@@ -1,6 +1,6 @@
 variables:
-  aseApiKeyId: UZIK8IE5BSLNGVOMSWFUJBFOYCP69L6M
-  aseApiKeySecret: Q00KH69PBU351FT20B1AVUFTRDG2VD1C
+  aseApiKeyId: 81I17RLPF64Y82AG6TBCHCJEP73L2PGO
+  aseApiKeySecret: DT2P6CPAUW2ZE4QYAIRVV3KZ70VCB7ER
   compiledArtifactFolder: none
   scanConfig: Normal scan
   aseAppName: idone
